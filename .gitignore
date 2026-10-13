@@ -1,0 +1,6 @@
+picorv32/
+*.vcd
+*.fst
+sim_build/
+results.xml
+__pycache__/

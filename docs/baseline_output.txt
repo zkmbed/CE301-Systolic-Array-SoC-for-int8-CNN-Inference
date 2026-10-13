@@ -1,0 +1,10 @@
+Hello from my own C program on PicoRV32!
+4x4 int8 matmul: 4578 cycles, checksum -2576
+-500 -400 -300 -200 
+-338 -262 -186 -110 
+-176 -124 -72 -20 
+-14 14 42 70 
+8x8 int8 matmul: 34414 cycles, checksum 178048
+TRAP after 53712 clock cycles
+ALL TESTS PASSED.
+testbench.v:266: $finish called at 538220000 (1ps)
