@@ -4,3 +4,8 @@ picorv32/
 sim_build/
 results.xml
 __pycache__/
+sim_build/
+results.xml
+__pycache__/
+*.vcd
+*.fst
