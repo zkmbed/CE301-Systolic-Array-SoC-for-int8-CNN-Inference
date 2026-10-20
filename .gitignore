@@ -9,3 +9,4 @@ results.xml
 __pycache__/
 *.vcd
 *.fst
+sim_build_N*/
