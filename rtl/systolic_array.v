@@ -1,6 +1,6 @@
 module systolic_array
 #(
-parameter N = 4
+parameter N = 8
 )
 (
 input clk,

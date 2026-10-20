@@ -4,7 +4,7 @@ export N
 
 SIM ?= icarus
 TOPLEVEL_LANG = verilog
-VERILOG_SOURCES = $(PWD)/../../rtl/pe.v $(PWD)/../../rtl/systolic_array.v
+VERILOG_SOURCES = $(PWD)/../../rtl/mac_pe.v $(PWD)/../../rtl/systolic_array.v
 COCOTB_TOPLEVEL = systolic_array
 COCOTB_TEST_MODULES = test_systolic_array
 COMPILE_ARGS += -P$(COCOTB_TOPLEVEL).N=$(N)
