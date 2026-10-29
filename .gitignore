@@ -10,3 +10,15 @@ __pycache__/
 *.vcd
 *.fst
 sim_build_N*/
+build/
+*.o
+*.d
+*.elf
+*.elf.map
+*.bin
+*.fbi
+*.vcd
+*.fst
+sim_build*/
+results.xml
+__pycache__/

@@ -1,7 +1,7 @@
 module controller
 #(
-parameter N=8,
-parameter K_max=1024
+parameter integer N=8,
+parameter integer K_max=1024
 )
 (
     input clk,
